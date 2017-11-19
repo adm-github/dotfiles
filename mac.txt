@@ -1,0 +1,41 @@
+Apps
+---
+chrome
+spectacle
+iterm2
+chrome canary
+dropbox
+google drive
+1password
+vlc
+showrss
+catch
+transmission
+franz
+evernote
+keka
+pycharm
+authy
+spotify
+caffeine
+docker
+tunnelblick
+gimp
+slack
+
+Terminal
+----
+go2shell
+brew
+
+Brew
+----
+git
+subliminal
+sqlite
+youtube-dl
+zsh-autosuggestions
+zsh-syntax-highlighting
+
+Settings for VIM: https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/
+Settings for iterm shell: https://gist.github.com/kevin-smets/8568070
