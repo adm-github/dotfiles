@@ -1,6 +1,8 @@
 Apps
 ---
 chrome
+chrome canary
+firefox
 spectacle
 iterm2
 chrome canary
@@ -11,6 +13,7 @@ vlc
 showrss
 catch
 transmission
+beamer - http://beamer-app.com/download
 franz
 evernote
 keka
@@ -22,6 +25,7 @@ docker
 tunnelblick
 gimp
 slack
+wireshark
 
 Terminal
 ----
